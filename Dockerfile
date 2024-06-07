@@ -1,3 +1,5 @@
+# Mutlistage Dockerfile to build speed up the build process for CI/CD pipelines
+
 # Stage 1: Build stage
 FROM golang:1.22-alpine AS BuildStage
 
