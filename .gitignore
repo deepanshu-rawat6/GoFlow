@@ -27,3 +27,13 @@ tmp/
 
 # Project build
 main
+
+# Terraform files
+**/.terraform
+**/.terraform.*
+**/.terraform
+**/terraform.*
+**/**.tfstate*
+*.terraform*
+*.tfstate*
+mykey.*
